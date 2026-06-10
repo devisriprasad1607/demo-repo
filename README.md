@@ -10,4 +10,5 @@ this is the subheader line!
 
 ## Developer
 
-The Developer has modified the login button
+1. The Developer has modified the login button
+2. Fixed the login button
